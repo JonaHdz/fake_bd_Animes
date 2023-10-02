@@ -1,0 +1,29 @@
+{
+  "animes": [
+    {
+      "name": "Clannad",
+      "caps": "24 caps",
+      "animeImageName": "clannad"
+    },
+    {
+      "name": "Hellsing",
+      "caps": "12 caps",
+      "animeImageName": "hellsing"
+    },
+    {
+      "name": "Baki",
+      "caps": "12 caps",
+      "animeImageName": "baki"
+    },
+    {
+      "name": "Kengan Ashura",
+      "caps": "12 caps",
+      "animeImageName": "kengan"
+    },
+    {
+      "name": "Cyberpunk 2077: Edgerunners",
+      "caps": "10 caps",
+      "animeImageName": "edgerunners"
+    }
+  ]
+}
